@@ -35,9 +35,14 @@
 
 <h2>Minhas redes para contato:</h2>
 <div style="display:inline-flex;">
-    <a href="https://www.linkedin.com/in/fabr%C3%ADcio-lourran-andrade-81336a231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge linkedin"></a>
-    <a href="https://www.instagram.com/lou_0.33/" target="_blank"></a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="badge instagram"></a>
-    <a href="mailto:fabriciolourran0007@gmail.com"></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge gmail">
+    <a href="https://www.linkedin.com/in/fabr%C3%ADcio-lourran-andrade-81336a231/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge linkedin">
+    </a>
+    <a href="https://www.instagram.com/lou_0.33/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="badge instagram">
+    </a>
+    <a href="mailto:fabriciolourran0007@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge gmail">
     </a>
 </div>
 <a href="https://www.freepik.com">designed by Upklyak - Freepik.com</a>
