@@ -1,5 +1,5 @@
 <img width="100%" src="img/bannerReadme.png" alt="banner de apresentação">
-
+<a href="https://www.freepik.com">designed by Upklyak - Freepik.com</a>
 <h2>Fabrício Lourran</h2>
 <p> Olá! Meu nome é Fabrício e sou estundante universitário 
     em ciência da computação pela universidade federal fluminense.
