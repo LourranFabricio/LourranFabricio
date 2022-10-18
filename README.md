@@ -31,4 +31,8 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="badge Typescript">
 <div/>
 
+<h2>Exemplo do meu trabalho:</h2>
+<img src="/img/site.gif" alt="gif do exemplo de trabalho">
+
+
 
