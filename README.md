@@ -31,8 +31,14 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="badge Typescript">
 <div/>
 
-<h2>Exemplo do meu trabalho:</h2>
-<img src="/img/site.gif" alt="gif do exemplo de trabalho">
+<h2>Minhas redes para contato #️⃣:</h2>
+<div style="display:inline-flex;">
+    <a href="https://www.linkedin.com/in/fabr%C3%ADcio-lourran-andrade-81336a231/" target="_blank"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge linkedin">
+    <a href="https://www.instagram.com/lou_0.33/" target="_blank"></a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="badge instagram">
+    <a href="mailto:fabriciolourran0007@gmail.com"></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge gmail">
+</div>
+
+
 
 
 
