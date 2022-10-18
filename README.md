@@ -11,7 +11,7 @@
     Dentro da Focus eu pude desenvolver hard skills, como o SCRUM,
     liderança, precificação de projetos, criação de cronograma para
     os projetos e também me desenvolver na área de front-end, que é 
-    meu foco. Além disso, com a faculdade adquiri experiência em 
+    o meu foco. Além disso, com a faculdade adquiri experiência em 
     programação de sistemas embarcados.
 </p>
 
