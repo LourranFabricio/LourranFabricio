@@ -1,5 +1,4 @@
 <img width="100%" src="img/bannerReadme.png" alt="banner de apresentação">
-<a href="https://www.freepik.com">designed by Upklyak - Freepik.com</a>
 <h2>Fabrício Lourran</h2>
 <p> Olá! Meu nome é Fabrício e sou estundante universitário 
     em ciência da computação pela universidade federal fluminense.
@@ -40,7 +39,7 @@
     <a href="https://www.instagram.com/lou_0.33/" target="_blank"></a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="badge instagram">
     <a href="mailto:fabriciolourran0007@gmail.com"></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge gmail">
 </div>
-
+<a href="https://www.freepik.com">designed by Upklyak - Freepik.com</a>
 
 
 
