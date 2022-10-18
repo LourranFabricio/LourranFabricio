@@ -16,7 +16,7 @@
     programação de sistemas embarcados.
 </p>
 
-<h3>Tecnologias que eu utilizo:</h3>
+<h3>Tecnologias que eu utilizo 💻:</h3>
 <div style="display:inline-flex;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="badge HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="badge CSS3">
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="badge C++">
 <div/>
 
-<h3>Tecnologias que estou estudando:</h3>
+<h3>Tecnologias que estou estudando 💻:</h3>
 <div style="display:inline-flex;">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="badge React">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="badge Typescript">
