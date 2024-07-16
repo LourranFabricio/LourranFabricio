@@ -1,4 +1,4 @@
-<img width="100%" src="img/bannerReadme.png" alt="banner de apresentação">
+<img width="100%" src="img/capa.png" alt="banner de apresentação">
 <h2>Fabrício Lourran</h2>
 <p> Olá! Meu nome é Fabrício, sou Analista de dados e estudante universitário 
     em ciência da computação pela universidade federal fluminense.
