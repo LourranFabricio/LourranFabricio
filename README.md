@@ -25,12 +25,9 @@
 
 <h3>Tecnologias que estou estudando 💻:</h3>
 <div style="display:inline-flex;">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="badge React">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="badge Typescript">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="badge Pyhton">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="badge Typescript">
 <div/>
-
-<h2>Exemplo do meu trabalho 👨‍💻:</h2>
-<img src="/img/site.gif" alt="gif do exemplo de trabalho">
 
 <h2>Minhas redes para contato:</h2>
 <div style="display:inline-flex;">
