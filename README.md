@@ -6,7 +6,7 @@
 
 <h2>Um pouco da minha experiência 📚:</h2>
 <p>
-    Fui integrante da empresa júnior Focus Consultoria, pude desenvolver 
+    Fui integrante da empresa júnior Focus Consultoria, onde pude desenvolver 
     hard skills, como o SCRUM, análise de dados e desenvolvimento front-end.
     Tambem me desenvolvi em soft skils como liderança, comunicação assertiva,
     resiliência e trabalho em equipe.
