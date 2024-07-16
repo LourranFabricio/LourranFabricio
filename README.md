@@ -6,11 +6,12 @@
 
 <h2>Um pouco da minha experiência 📚:</h2>
 <p>
-    Dentro da Focus eu pude desenvolver hard skills, como o SCRUM,
-    liderança, precificação de projetos, criação de cronograma para
-    os projetos e também me desenvolver na área de front-end, que é 
-    o meu foco. Além disso, com a faculdade adquiri experiência em 
-    programação de sistemas embarcados.
+    Fui integrante da empresa júnior Focus Consultoria, pude desenvolver 
+    hard skills, como o SCRUM, análise de dados e desenvolvimento front-end.
+    Tambem me desenvolvi em soft skils como liderança, comunicação assertiva,
+    resiliência e trabalho em equipe.
+    Estou estudando diariamente a área de dados e buscando adquirir proeficiência
+    em estatística e  ferramentas como Excel, Power BI, Python e SQL. 
 </p>
 
 <h3>Tecnologias que eu utilizo 💻:</h3>
