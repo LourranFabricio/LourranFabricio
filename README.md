@@ -41,8 +41,6 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge gmail">
     </a>
 </div>
-<a href="https://www.freepik.com">designed by Upklyak - Freepik.com</a>
-
 
 
 
